@@ -1,4 +1,8 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/119109970/235887832-c765824d-cd01-49d5-896d-a3c5098ba9d3.gif" width="1280" height="400">
+![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966 (1)](https://user-images.githubusercontent.com/119109970/235887832-c765824d-cd01-49d5-896d-a3c5098ba9d3.gif)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Hensal Deon</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hensaldeon&label=Profile%20views&color=0e75b6&style=flat" alt="hensaldeon" /> </p>
