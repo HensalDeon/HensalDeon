@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47qii5dh68f3aylgipxv43vcyz3bfadnfddtw12drb&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g" alt="Dog Man GIF by Pluralsight" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+<img align="centre" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47qii5dh68f3aylgipxv43vcyz3bfadnfddtw12drb&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g" alt="Dog Man GIF by Pluralsight" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 <h1 align="center">Hi 👋, I'm Hensal Deon</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hensaldeon&label=Profile%20views&color=0e75b6&style=flat" alt="hensaldeon" /> </p>
