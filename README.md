@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hensal Deon</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+<img src="[https://raw.githubusercontent.com/HensalDeon](https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw/fullscreen)" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hensaldeon&label=Profile%20views&color=0e75b6&style=flat" alt="hensaldeon" /> </p>
 
 - 🌱 I’m currently learning **React js**
@@ -8,6 +8,8 @@
 - 💬 Ask me about **React js, Express js, Node js, Psql, Sql**
 
 - 📫 How to reach me **hensaldeon777@gmail.com**
+
+- 👨‍💻 All of my projects are available at **https://github.com/HensalDeon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
