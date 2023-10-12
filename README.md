@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HensalDeon](https://github.com/HensalDeon)
 
-- 💬 Ask me about **React js, Express js, Node js, Psql, Sql**
+- 💬 Ask me about **React js, Express js, Node js, Psql, MongoDb**
 
 - 📫 How to reach me **hensaldeon777@gmail.com**
 
