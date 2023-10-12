@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hensaldeon&label=Profile%20views&color=0e75b6&style=flat" alt="hensaldeon" /> </p>
 
-- 🌱 I’m currently planing a **Project**
+- 🌱 I’m currently doing a **Social Media App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HensalDeon](https://github.com/HensalDeon)
 
