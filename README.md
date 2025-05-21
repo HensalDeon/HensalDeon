@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hensaldeon&label=Profile%20views&color=0e75b6&style=flat" alt="hensaldeon" /> </p>
 
-- 🌱 I’m currently doing saas for **Trading app**
+- 🌱 I’m currently doing saas for **Ikea Food app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HensalDeon](https://github.com/HensalDeon)
 
-- 💬 Ask me about **React js, Express js, Node js, Psql, MongoDb**
+- 💬 Ask me about **React js, Next Js, Express js, Node js, MongoDb**
 
 - 📫 How to reach me **hensaldeon777@gmail.com**
 
