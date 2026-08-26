@@ -110,18 +110,6 @@ Real-estate platform built as an independent project.
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HensalDeon&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HensalDeon&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in conversations around frontend engineering, architecture, modern web development and interesting products.
@@ -129,3 +117,5 @@ I'm always interested in conversations around frontend engineering, architecture
 [LinkedIn](https://www.linkedin.com/in/hensal-deon/) ·
 [GitHub](https://github.com/HensalDeon) ·
 [Email](mailto:hensaldeon777@gmail.com)
+
+---
