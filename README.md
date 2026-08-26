@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hey, I'm Hensal Deon 👋
@@ -130,4 +129,3 @@ I'm always interested in conversations around frontend engineering, architecture
 [LinkedIn](https://www.linkedin.com/in/hensal-deon/) ·
 [GitHub](https://github.com/HensalDeon) ·
 [Email](mailto:hensaldeon777@gmail.com)
-```
