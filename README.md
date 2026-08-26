@@ -19,7 +19,7 @@ frontend architecture, clean engineering and polished user interfaces.
 
 I'm a Senior Web Developer based in India with experience building and maintaining modern web applications, commerce platforms, corporate websites and internal systems.
 
-My work primarily revolves around **React, Next.js, TypeScript, JavaScript and modern frontend architecture**, while also working across **Node.js, MongoDB, WordPress, Shopify, Webflow and headless CMS platforms** when projects require it.
+My work primarily revolves around **React, Next.js, TypeScript, JavaScript and modern frontend architecture**, while also working across **Node.js, MongoDB, WordPress, Webflow and headless CMS platforms** when projects require it.
 
 I enjoy turning complex requirements and detailed UI/UX designs into responsive, maintainable and performant products.
 
