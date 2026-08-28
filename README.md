@@ -53,7 +53,7 @@ I enjoy turning complex requirements and detailed UI/UX designs into responsive,
 </p>
 
 **Also worked with:**  
-GraphQL · Apollo · SWR · Axios · Webflow · Shopify · Sanity · Formik · Yup · Framer Motion · Socket.IO
+GraphQL · Apollo · SWR · Axios · Webflow · Shopify · Sanity · Formik · Yup · Framer Motion · Socket.IO · Three Js
 
 ---
 
