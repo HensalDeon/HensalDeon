@@ -57,7 +57,7 @@ GraphQL · Apollo · SWR · Axios · Webflow · Shopify · Sanity · Formik · Y
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Selected Works
 
 ### IKEA Swedish Food Market
 Food commerce platform serving **UAE, Qatar, Egypt and Oman**.
